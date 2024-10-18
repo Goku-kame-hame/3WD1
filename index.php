@@ -100,7 +100,6 @@
         <div class="container mt-5">
             <h1 class="text-center">ARITHMETIC OPERATION</h1>
 
-            <!-- Ideal Weight Calculation Form -->
             <form method="POST" action="">
                 <div class="form-group">
                     <label for="tinggi">Masukkan Tinggi Badan (cm):</label>
@@ -117,7 +116,6 @@
             }
             ?>
 
-            <!-- Price Calculation Form -->
             <form method="POST" action="">
                 <h2 class="mt-5">Hitung Total Belanja</h2>
                 <div class="form-group">
